@@ -1,0 +1,13 @@
+Add-DnsServerRootHint -IPAddress 198.41.0.4 -nameserver a.root-servers.net
+Add-DnsServerRootHint -IPAddress 199.9.14.201 -nameserver b.root-servers.net
+Add-DnsServerRootHint -IPAddress 192.33.4.12 -nameserver c.root-servers.net
+Add-DnsServerRootHint -IPAddress 199.7.91.13 -nameserver d.root-servers.net
+Add-DnsServerRootHint -IPAddress 192.203.230.10 -nameserver e.root-servers.net
+Add-DnsServerRootHint -IPAddress 192.5.5.241 -nameserver f.root-servers.net
+Add-DnsServerRootHint -IPAddress 192.112.36.4 -nameserver g.root-servers.net
+Add-DnsServerRootHint -IPAddress 198.97.190.53 -nameserver h.root-servers.net
+Add-DnsServerRootHint -IPAddress 192.36.148.17 -nameserver i.root-servers.net
+Add-DnsServerRootHint -IPAddress 192.58.128.30 -nameserver j.root-servers.net
+Add-DnsServerRootHint -IPAddress 193.0.14.129 -nameserver k.root-servers.net
+Add-DnsServerRootHint -IPAddress 199.7.83.42 -nameserver l.root-servers.net
+Add-DnsServerRootHint -IPAddress 202.12.27.33 -nameserver m.root-servers.net
